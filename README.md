@@ -14,6 +14,8 @@ I'm passionate about leveraging **data, technology, and innovation** to drive **
   Bachelor of Science in Economics from CIDE, Mexico City.  
 - 🌱 **Currently Learning**: Advanced machine learning techniques and their application in social impact projects.
 - 🌍 **Interests**: Social innovation, fintech, data visualization, and sustainable growth strategies.
+- 💡 **Fun Fact**: My GitHub username **Dayacha** is an acronym for my full name: **D**aniela **Aya**la **Cha**vez. It’s my digital signature!
+
 
 ---
 
